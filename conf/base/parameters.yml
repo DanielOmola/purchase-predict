@@ -1,1 +1,5 @@
 test_ratio: 0.3
+automl_max_evals: 10
+
+gcp_project_id: "acquired-racer-382720" # <PROJET_GCP>
+gcs_primary_folder: "blent-formation-ml-engineer-daniel/primary/data.csv" # <NOM_DU_BUCKET>/primary/data.csv
